@@ -2,4 +2,4 @@
 
 **Starter Playground**
 
-Fork and clone this repository to begin the guided project.
+Please fork and clone this repository to prepare for the guided project.
